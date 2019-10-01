@@ -1,1 +1,7 @@
 https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+
+
+1st october
+https://github.com/TobiasGlaubach/python-ml-turbofan/blob/master/TrainSimpleRegressor.ipynb
+Bridge 
+Lasso
